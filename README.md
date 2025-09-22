@@ -22,13 +22,6 @@
 - 🛠 Skilled in **Python | Machine Learning **  
 - 🌍 Exploring **Generative AI, Frontend **
 - 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivikshaa&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivikshaa&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 ---
 
