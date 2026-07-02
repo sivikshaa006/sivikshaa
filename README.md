@@ -1,68 +1,98 @@
-# sivikshaa
-<!-- Banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/000000/banner.png" alt="Welcome Banner" width="100%"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
 
-<h1 align="center">👋 Hi, I'm SiviKshaa (@sivikshaa)</h1>
-<p align="center">
-  🚀 UI&UX | 📊 web designing Enthusiast | 🌱 Lifelong Learner
-</p>
+<head>
 
----
+    <meta charset="UTF-8">
 
-## 💡 Typing Intro
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=blue&lines=AI+%26+ML+Enthusiast;Data+Science+Learner;Open+Source+Contributor;Always+Learning+🚀)](https://git.io/typing-svg)
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
 
----
+    <title>Sivikshaa | Portfolio</title>
 
-## 🧑‍💻 About Me
-- 🎓 B.Tech in Artificial Intelligence & Data Science  
-- 🤖 Passionate about **AI-based developing projects**  
-- 🛠 Skilled in **Python | Machine Learning **  
-- 🌍 Exploring **Generative AI, Frontend **
-- 
+    <!-- CSS -->
 
----
+    <link rel="stylesheet" href="style.css">
 
-## 🌱 Currently Learning
-- ⚡ UI&UX designing
-- 🛡️ Explainable AI-Powered Language Translator integrates AI
-- 🧩 Large Language Models (LLMs)  
-- 🌐 Explainable AI (XAI)  
+    <!-- Font Awesome -->
 
----
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 
-## ## 🎮 Fun Corner
-- 🤖 Favorite AI Movie: Ex Machina  
-- ⚡ Coding Superpower: Debugging with chai ☕  
-- 🎯 Fun Fact: My neural networks learn faster than me 😅  
+</head>
 
-## 💡 Daily Inspiration
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Quote"/>
-</p>
+<body>
 
----
+    <!-- Navbar -->
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/sivikshaa/sivikshaa/blob/output/github-contribution-grid-snake.svg)
+    <nav>
 
----
+        <h2>SiviKshaa</h2>
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/sivikshaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sivikshaa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:sivikshaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+        <ul>
 
----
+            <li><a href="#">Home</a></li>
 
-⭐ *“Transforming ideas into intelligent solutions.”*
+            <li><a href="#">About</a></li>
+
+            <li><a href="#">Skills</a></li>
+
+            <li><a href="#">Projects</a></li>
+
+            <li><a href="#">Contact</a></li>
+
+        </ul>
+
+    </nav>
+
+
+    <!-- Hero Section -->
+
+    <section class="hero">
+
+        <div class="content">
+
+            <h3>Hello 👋 I'm</h3>
+
+            <h1>SIVIKSHAA T</h1>
+
+            <h2>
+                <span id="typing"></span>
+            </h2>
+
+            <p>
+
+                Passionate Artificial Intelligence and Data Science student
+                interested in building innovative AI solutions, modern web
+                applications, and user-friendly software.
+
+            </p>
+
+            <div class="buttons">
+
+                <a href="resume.pdf" target="_blank" class="btn">
+                    Download Resume
+                </a>
+
+                <a href="#" class="btn2">
+                    Contact Me
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <div class="image">
+
+            <img src="profile.jpg">
+
+        </div>
+
+    </section>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
